@@ -6,6 +6,5 @@ public class test {
         System.out.println("Change");
         System.out.println("neda");
         System.out.println("zahra");
-        System.out.println("hello guys");
     }
 }
